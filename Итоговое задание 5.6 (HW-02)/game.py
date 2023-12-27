@@ -89,7 +89,6 @@ def start():
         print("До свидания!")
 
 
-step = 0  # Номер хода
 if start():
     for step in range(9):
         step += 1
